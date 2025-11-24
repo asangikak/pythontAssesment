@@ -1,2 +1,2 @@
 # pythontAssesment
-I wrote this code to read a list of urls and extract data
+This code will go through a list of websites and extract data from those sites
